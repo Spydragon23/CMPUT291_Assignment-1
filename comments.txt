@@ -1,0 +1,7 @@
+Comments For Part 1:
+
+Kaitlin’s Comments: krfong
+- Commenting on kcmacint: Looks like it shares a lot of similarities with mine, I believe the role labels are missing from the Movie - recommends - Movie relationship 
+- Commenting on spang1: Looks great, should movie attributes “title” and “year_of_prod” be underlined even though individually they can be repeated?
+- Commenting on mrbhatt1: I’m confused about why “StreamingSession” has thick lines going toward both “HasSession” and “Watched” as I did mine differently. Also wondering why the relationships are in camel case
+
