@@ -5,3 +5,8 @@ Kaitlin’s Comments: krfong
 - Commenting on spang1: Looks great, should movie attributes “title” and “year_of_prod” be underlined even though individually they can be repeated?
 - Commenting on mrbhatt1: I’m confused about why “StreamingSession” has thick lines going toward both “HasSession” and “Watched” as I did mine differently. Also wondering why the relationships are in camel case
 
+
+Mihir Bhatts Comments: mrbhatt1
+- commenting on kcmaint: Only thing i notice is there is no double line between session and viewed but everything else seems to be about the same.
+- Commenting on spang1: Wondering why Crew/Cast doesn't connect to Movies but otherwise everything else makes perfect sense
+- Commenting on krfong: Looks a lot like mine, arrows and everything else similar too. Few minor differences though.
