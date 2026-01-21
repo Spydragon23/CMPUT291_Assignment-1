@@ -10,11 +10,6 @@ Kiernan's Comments: kcmacint
 - Commenting on spang1: Looks good, I think there is arrows where there does not need to be and that they should just be regular lines 
 - Commenting on mrbhatt1: Looks good, There should be attributes to streaming session though, and It has no need to be thick line, missing date and time and device used for streaming session attributes.
 
-Kiernan's Comments: kcmacint
-- Commenting on krfong: Looks great, dont know why there is watched and recommended between movie and recommends and follows should be outlined hard to sees
-- Commenting on spang1: Looks good, I think there is arrows where there does not need to be and that they should just be regular lines 
-- Commenting on mrbhatt1: Looks good, There should be attributes to streaming session though, and It has no need to be thick line, missing date and time and device used for streaming session attributes.
-
 
 Mihir Bhatts Comments: mrbhatt1
 - commenting on kcmaint: Only thing i notice is there is no double line between session and viewed but everything else seems to be about the same.
