@@ -5,3 +5,8 @@ Kaitlin’s Comments: krfong
 - Commenting on spang1: Looks great, should movie attributes “title” and “year_of_prod” be underlined even though individually they can be repeated?
 - Commenting on mrbhatt1: I’m confused about why “StreamingSession” has thick lines going toward both “HasSession” and “Watched” as I did mine differently. Also wondering why the relationships are in camel case
 
+Kiernan's Comments: kcmacint
+- Commenting on krfong: Looks great, dont know why there is watched and recommended between movie and recommends and follows should be outlined hard to sees
+- Commenting on spang1: Looks good, I think there is arrows where there does not need to be and that they should just be regular lines 
+- Commenting on mrbhatt1: Looks good, There should be attributes to streaming session though, and It has no need to be thick line, missing date and time and device used for streaming session attributes.
+
