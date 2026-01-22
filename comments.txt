@@ -15,3 +15,9 @@ Mihir Bhatts Comments: mrbhatt1
 - commenting on kcmaint: Only thing i notice is there is no double line between session and viewed but everything else seems to be about the same.
 - Commenting on spang1: Wondering why Crew/Cast doesn't connect to Movies but otherwise everything else makes perfect sense
 - Commenting on krfong: Looks a lot like mine, arrows and everything else similar too. Few minor differences though.
+
+Selena's Comments: spang1
+- commenting on krfong: Looks very neat, logic is quite similar to mine. Concerned about whether or not the ISA hierarchy is allowed to have an attribute, but even then, I would not put an arrow there. I wonder if the title and production_yr could be made as primary keys instead of putting them as another attribute together. I think all relationships are covered and accurate, but could add a one to many arrow for customer follows movie person.
+- commenting on kcmacint: Clean, easy to follow, relationships look good, however seems to lack one-to-one, one-to-many relationships and concerned as to why there seem to be double lines in some areas. I also think the customer prefers genre relationship should be many to many rather than one to many, as you could associate multiple genres to different customers.
+- commenting on mrbhatt1: Structured and easy to follow. There seems to be an empty triangle. Attributes seem to all be accounted for, and relationships are all there. Not sure why there are two lines connecting from movie to recommends. I think StreaminSession HasSession customer should not be one to many, but one to many from Customer hasSession StreamingSession.
+
