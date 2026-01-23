@@ -27,6 +27,14 @@ CREATE TABLE votes
 	FOREIGN KEY (pid) REFRENCES Posts
 		ON DELETE CASCADE,
 	FOREIGN KEY (uid) REFRENCE Users)
+Create TABLE comment
+	(pid CHAR (6),
+	uid CHAR (11),
+	cdate CHAR(10),
+	ctetxt CHAR(20),
+	PRIMARY KEY(pid, uid),
+	FOREIGN KEY (pid) REFRENCES Posts,
+	FOREIGN KEY (uid) REFRENCES Users)
 CREATE TABLE Posts
 	(pdate CHAR(11),
 	pid CHAR(6),
